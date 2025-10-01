@@ -1000,4 +1000,5 @@
 <word pos="SCONJ" lemma="sem" />SCONJ</word>
 
 ^(.+)\t(.+)\t(.+)
+
 <word pos="\3" lemma="\2" />\3</word>
